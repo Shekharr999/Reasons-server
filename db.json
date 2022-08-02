@@ -84,6 +84,12 @@
             "reason":"Dimissed - RAT",
             "InsertedBy":"Sraddha",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "reason":"Alleged breach of Company Policy",
+            "InsertedBy":"Bala",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
         }
     ]
 }
